@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m in the process of learning learning C++, ReactJS
 
-- 🤔 I'm currently searching for a Summer 2023 internship
+- 🤔 I'm actively searching for a Summer 2023 internship
 
 - 📫 How to reach me: sacha.arseneault@gmail.com
