@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a website for a meal delivery service
 
-- 🌱 I’m in the process of learning learning C++.
+- 🌱 I’m in the process of learning learning C++
 
 - 🤔 I'm actively searching for a Summer 2023 internship
 
