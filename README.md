@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I'm actively searching for a Summer 2023 internship
 
 - 📫 How to reach me: sacha.arseneault@gmail.com
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xsachax&show_icons=true&theme=tokyonight)
