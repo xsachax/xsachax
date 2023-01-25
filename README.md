@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a website for a meal delivery service
+- 🔭 I’m currently working as a development coordinator for HackTheHill
 
 - 🌱 I’m in the process of learning C++
 
