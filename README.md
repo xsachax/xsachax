@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m in the process of learning SQL and C++
 
-- 🤔 I'm actively searching for a Summer 2023 internship
+- 🤔 I'm actively searching for a Winter 2024 internship
 
 - 📫 How to reach me: sacha.arseneault@gmail.com
 
