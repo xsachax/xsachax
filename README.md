@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working as a software developer for Hack The Hill
+- 🔭 I’m currently working as a VR Developer at Propel VR
 
 - 🌱 I’m in the process of learning SQL and C++
 
