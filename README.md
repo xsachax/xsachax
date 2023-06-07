@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a VR Developer at Propel VR
 
-- 🌱 I’m in the process of learning SQL and C++
+- 🌱 I’m in the process of learning C++
 
 - 🤔 I'm actively searching for a Winter 2024 internship
 
