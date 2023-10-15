@@ -5,11 +5,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🏔️ I'm volunteering as a Software Development Manager at Hack the Hill
+- 🏔️ I'm currently a Software Development Manager at Hack the Hill
 
 - 🌱 I’m in the process of learning C++
 
-- 🤔 I'm actively searching for a Winter 2024 internship
+- 🤔 I'm actively searching for 2024 software engineering internships
 
 - 📫 Reach me at: sacha.arseneault@gmail.com
 
