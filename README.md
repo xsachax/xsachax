@@ -1,4 +1,4 @@
-<h2>Hey there 👋</h2>
+<h2>Hey there, I'm Sacha 👋</h2>
 
 - 🔭 I’m currently working as a **Software Engineer at Ciena**
 
