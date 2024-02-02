@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 My hackathon projects are available at [devpost.com/xsachax](devpost.com/xsachax)
-
 - 🤔 I'm actively searching for **2024 software engineering internships**
 
 - 📫 How to reach me **sacha.arseneault@gmail.com**
