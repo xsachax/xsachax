@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sacha.arseneault@gmail.com**
 
-- 🌎 Check out my website *https://sachaa.dev*
+- 🌎 Take a look at my website *https://sachaa.dev*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
