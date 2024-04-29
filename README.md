@@ -1,10 +1,10 @@
 <h2>Hey there, I'm Sacha 👋</h2>
 
-- 🔭 I’m currently working as a **Software Engineer at Ciena**
+- 🔭 I’m currently studying Software Engineering at the **University of Ottawa**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Typescript**
 
-- 🤔 I'm actively searching for **2024 software engineering internships**
+- 🤔 I'm actively searching for **2025 software engineering internships**
 
 - 📫 How to reach me **sacha.arseneault@gmail.com**
 
