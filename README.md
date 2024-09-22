@@ -1,8 +1,8 @@
-<h2>Hey there, I'm Sacha 👋</h2>
+<h2>Hey, I'm Sacha 👋</h2>
 
 - 🔭 I’m currently studying Software Engineering at the **University of Ottawa**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Cloud**
 
 - 🤔 I'm actively searching for **2025 software engineering internships**
 
