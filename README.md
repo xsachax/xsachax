@@ -49,6 +49,10 @@
           <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="40" height="40"/>
           </a>
+          <!-- C# -->
+          <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C# Logo" width="40" height="40"/>
+          </a>
           <!-- Rust -->
           <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust Logo" width="40" height="40"/>
@@ -134,10 +138,6 @@
             </tr>
             <tr>
                 <td align='center'>
-          <!-- C# -->
-          <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C# Logo" width="40" height="40"/>
-          </a>
           <!-- JavaScript -->
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="40" height="40"/>
