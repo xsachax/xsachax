@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying Software Engineering at the **University of Ottawa**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust** 🦀
 
 - 🤔 I'm actively searching for **2025 software engineering internships**
 
