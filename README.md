@@ -71,6 +71,10 @@
           <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS Logo" width="40" height="40"/>
           </a>
+          <!-- Vite -->
+          <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite Logo" width="40" height="40"/>
+          </a>
           <!-- OpenTelemetry -->
           <a href="https://opentelemetry.io" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" alt="OpenTelemetry Logo" width="40" height="40"/>
@@ -180,6 +184,10 @@
           <a href="https://flutter.dev" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter Logo" width="40" height="40"/>
           </a>
+          <!-- Firebase -->
+          <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase Logo" width="40" height="40"/>
+          </a>
         </td>
         <td align='center'>
           <!-- Figma -->
@@ -229,6 +237,10 @@
           <a href="https://angular.dev/" target="_blank" rel="noreferrer">
             <img src="https://logosandtypes.com/wp-content/uploads/2024/01/angular.svg" alt="Angular Logo" width="40" height="40"/>
           </a>
+          <!-- Unreal Engine -->
+          <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn2.unrealengine.com/ue-logotype-2023-vertical-white-1686x2048-bbfded26daa7.png" alt="Unreal Engine Logo" width="40" height="40"/>
+          </a>   
         </td>
         <td align='center'>
           <!-- Kafka -->
