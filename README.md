@@ -59,10 +59,6 @@
           </a>
         </td>
         <td align='center'>
-          <!-- Spring Boot -->
-          <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring Boot Logo" width="40" height="40"/>
-          </a>
           <!-- Astro -->
           <a href="https://astro.build/" target="_blank" rel="noreferrer">
             <img src="https://cdn.cosmicjs.com/24428290-b9d3-11ed-907c-292879eb8504-astro-logomark-dark.png" alt="Astro Logo" width="40" height="40"/>
@@ -78,10 +74,6 @@
           <!-- Vite -->
           <a href="https://vite.dev/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite Logo" width="40" height="40"/>
-          </a>
-          <!-- OpenTelemetry -->
-          <a href="https://opentelemetry.io" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" alt="OpenTelemetry Logo" width="40" height="40"/>
           </a>
           <!-- Unity -->
           <a href="https://unity.com" target="_blank" rel="noreferrer">
@@ -113,10 +105,6 @@
           <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes Logo" width="40" height="40"/>
           </a>
-          <!-- RabbitMQ -->
-          <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ Logo" width="40" height="40"/>
-          </a>
           <!-- Postman -->
           <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman Logo" width="40" height="40"/>
@@ -124,10 +112,6 @@
           <!-- GitHub Actions -->
           <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" alt="GitHub Actions Logo" width="40" height="40"/>
-          </a>
-          <!-- Kibana -->
-          <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" alt="Kibana Logo" width="40" height="40"/>
           </a>
         </td>
     </tr>
@@ -188,8 +172,24 @@
           <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase Logo" width="40" height="40"/>
           </a>
+          <!-- OpenTelemetry -->
+          <a href="https://opentelemetry.io" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" alt="OpenTelemetry Logo" width="40" height="40"/>
+          </a>
+          <!-- Spring Boot -->
+          <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring Boot Logo" width="40" height="40"/>
+          </a>
         </td>
         <td align='center'>
+          <!-- RabbitMQ -->
+          <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ Logo" width="40" height="40"/>
+          </a>
+          <!-- Kibana -->
+          <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" alt="Kibana Logo" width="40" height="40"/>
+          </a>
           <!-- Figma -->
           <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma Logo" width="40" height="40"/>
