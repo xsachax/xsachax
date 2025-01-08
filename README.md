@@ -53,10 +53,10 @@
           <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C# Logo" width="40" height="40"/>
           </a>
-          <!-- Rust -->
-          <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust Logo" width="40" height="40"/>
-          </a>
+          <!-- Ruby -->
+          <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" alt="Ruby Logo" width="40" height="40"/>
+          </a>    
         </td>
         <td align='center'>
           <!-- Astro -->
@@ -78,6 +78,14 @@
           <!-- Unity -->
           <a href="https://unity.com" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity Logo" width="40" height="40"/>
+          </a>
+          <!-- Rails -->
+          <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails Logo" width="40" height="40"/>
+          </a>
+          <!-- GraphQL -->
+          <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL Logo" width="40" height="40"/>
           </a>
         </td>
         <td align='center'>
@@ -133,6 +141,10 @@
           <!-- Dart -->
           <a href="https://dart.dev" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart Logo" width="40" height="40"/>
+          </a>
+          <!-- Rust -->
+          <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust Logo" width="40" height="40"/>
           </a>
         </td>
         <td align='center'>
