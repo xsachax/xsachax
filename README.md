@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently studying Software Engineering at the **University of Ottawa**
 
-- 🌱 I’m currently learning **Rust** 🦀
+- 🌱 I’m currently learning **Ruby/Rails** 🚂
 
-- 🤔 I'm actively searching for **2025 software engineering internships**
+- 🤔 I'm actively searching for **2025 software engineering internships (summer)**
 
 - 📫 How to reach me **sacha.arseneault@gmail.com**
 
