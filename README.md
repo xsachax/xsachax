@@ -1,19 +1,27 @@
-<h2>Hey, I'm Sacha 👋</h2>
+![banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F2em10c2kzZzUxZDIwY2oxYWRocHZ5cnpndGQ4dWQ2a2Q0YWdmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif)
+![banner2](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHAwbWxkbDJiZGs5YWpkZDZ2a3loeGdiZWs1YnZhNjBtaGl0dDBvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZCZ7FHlu3sPek3h0zP/giphy.gif)
 
-- 🔭 I’m currently studying Software Engineering at the **University of Ottawa**
+<h1>Hey, I'm Sacha 👋</h1>
 
-- 🌱 I’m currently learning **Ruby/Rails** 🚂
+<h3>About me</h3>
 
-- 🤔 I'm actively searching for **2025 software engineering internships (summer)**
+- 🔭 Software Engineering Student at the **University of Ottawa**
 
-- 📫 How to reach me **sacha.arseneault@gmail.com**
+- 🌱 Currently learning **Ruby/Rails** 🚂
+
+- 🤔 Searching for **2025 software engineering internships (summer)**
+
+- 📫 Reach me at **sacha.arseneault@gmail.com**
 
 - 🌎 Take a look at my website *https://sachaa.dev*
 
-<h3>Connect with me!</h3>
+<img src="https://komarev.com/ghpvc/?username=xsachax" alt="xsachax" />  
+<h3>Let's connect!</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sacha-ars/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sacha-ars/" height="30" width="40" /></a>
 </p>
+<hr/>
+
 <h2>Technical Skills</h2>
             <div class="tg-wrap" align="center">
             <table>
