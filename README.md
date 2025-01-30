@@ -1,6 +1,6 @@
 <!--![banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F2em10c2kzZzUxZDIwY2oxYWRocHZ5cnpndGQ4dWQ2a2Q0YWdmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif)-->
 
-![](bannergif.gif)
+![](cyberpunk.gif)
 
 <h1>Hey, I'm Sacha 👋</h1>
 
