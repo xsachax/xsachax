@@ -1,5 +1,4 @@
 ![banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F2em10c2kzZzUxZDIwY2oxYWRocHZ5cnpndGQ4dWQ2a2Q0YWdmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif)
-![banner2](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHAwbWxkbDJiZGs5YWpkZDZ2a3loeGdiZWs1YnZhNjBtaGl0dDBvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZCZ7FHlu3sPek3h0zP/giphy.gif)
 
 <h1>Hey, I'm Sacha 👋</h1>
 
