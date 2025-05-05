@@ -8,9 +8,7 @@
 
 - 🔭 Software Engineering Student at the **University of Ottawa**
 
-- 🌱 Currently learning **Ruby/Rails** 🚂
-
-- 🤔 Searching for **2025 software engineering internships (summer)**
+- 🤔 Searching for **2026 software engineering internships (summer)**
 
 - 📫 Reach me at **sacha.arseneault@gmail.com**
 
