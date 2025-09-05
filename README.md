@@ -78,6 +78,10 @@
           <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="Prometheus Logo" width="40" height="40"/>
           </a>
+          <!-- FastAPI -->
+          <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI Logo" width="40" height="40"/>
+          </a>
         </td>
         <td align='center'>
           <!-- Git -->
@@ -123,10 +127,6 @@
           <!-- Confluence -->
           <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
             <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Confluence Logo" width="40" height="40"/>
-          </a>
-          <!-- DBeaver -->
-          <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="DBeaver Logo" width="40" height="40"/>
           </a>
         </td>
     </tr>
@@ -282,6 +282,10 @@
           <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" alt="Rider Logo" width="40" height="40"/>
           </a>
+          <!-- DBeaver -->
+          <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="DBeaver Logo" width="40" height="40"/>
+          </a>
         </td>
     </tr>
 <tr>
@@ -309,10 +313,6 @@
           <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow Logo" width="40" height="40"/>
           </a> 
-          <!-- FastAPI -->
-          <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI Logo" width="40" height="40"/>
-          </a>
           <!-- MongoDB -->
           <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB Logo" width="40" height="40"/>
