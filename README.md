@@ -82,6 +82,10 @@
           <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI Logo" width="40" height="40"/>
           </a>
+          <!-- Supabase -->
+          <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase Logo" width="40" height="40"/>
+          </a>
         </td>
         <td align='center'>
           <!-- Git -->
@@ -316,10 +320,6 @@
           <!-- MongoDB -->
           <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB Logo" width="40" height="40"/>
-          </a>
-          <!-- Supabase -->
-          <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase Logo" width="40" height="40"/>
           </a>
         </td>
         <td align='center'>
