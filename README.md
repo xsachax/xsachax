@@ -66,6 +66,14 @@
           <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" width="40" height="40"/>
           </a>
+          <!-- PostgreSQL -->
+          <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL Logo" width="40" height="40"/>
+          </a>
+            <!-- Payload CMS -->
+            <a href="https://payloadcms.com/" target="_blank" rel="noreferrer">
+            <img src="https://avatars.githubusercontent.com/u/62968818?s=48&v=4" alt="Payload CMS Logo" width="40" height="40" />
+            </a>
           <!-- Tailwind CSS -->
           <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS Logo" width="40" height="40"/>
@@ -192,10 +200,6 @@
           <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/MFarabi619/MFarabi619/5a4606bb573657a028ae5b2583f58ea151268667/Markdown%20Sections/Section%20Data/express_logo.svg" alt="Express Logo" width="40" height="40"/>
           </a>
-          <!-- PostgreSQL -->
-          <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL Logo" width="40" height="40"/>
-          </a>
           <!-- MySQL -->
           <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="40" height="40"/>
@@ -235,6 +239,10 @@
           <!-- GraphQL -->
           <a href="https://graphql.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL Logo" width="40" height="40"/>
+          </a>
+          <!-- Angular -->
+          <a href="https://angular.dev/" target="_blank" rel="noreferrer">
+            <img src="https://logosandtypes.com/wp-content/uploads/2024/01/angular.svg" alt="Angular Logo" width="40" height="40"/>
           </a>
         </td>
         <td align='center'>
@@ -309,10 +317,10 @@
           </a>
         </td>
         <td align='center'>
-          <!-- Angular -->
-          <a href="https://angular.dev/" target="_blank" rel="noreferrer">
-            <img src="https://logosandtypes.com/wp-content/uploads/2024/01/angular.svg" alt="Angular Logo" width="40" height="40"/>
-          </a>
+            <!-- PyTorch -->
+            <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" alt="PyTorch Logo" width="40" height="40" />
+            </a>
           <!-- TensorFlow -->
           <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow Logo" width="40" height="40"/>
