@@ -8,8 +8,6 @@
 
 - 🔭 I'm a software engineering student at the **University of Ottawa**
 
-- 🤔 I'm searching for **2026 software engineering internships (summer)**
-
 - 📫 You can reach me at **sacha.arseneault@gmail.com**
 
 - 🌎 Take a look at my website *https://sachaa.dev*
