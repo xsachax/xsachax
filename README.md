@@ -202,10 +202,6 @@
           <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="40" height="40"/>
           </a>
-          <!-- Remix.js -->
-          <a href="https://remix.run/" target="_blank" rel="noreferrer">
-            <img src="https://remix.run/img/og.1.jpg" alt="Remix.js Logo" width="40" height="40"/>
-          </a>
           <!-- PyTest -->
           <a href="https://docs.pytest.org/en/7.3.x/" target="_blank" rel="noreferrer">
             <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="PyTest Logo" width="40" height="40"/>
