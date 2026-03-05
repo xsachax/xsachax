@@ -8,6 +8,8 @@
 
 - 🔭 I'm a software engineering student at the **University of Ottawa**
 
+- 🦫 I'm currently working on [Bingo](https://github.com/bingosuite/bingo), a visual concurrency debugger for Go
+
 - 📫 You can reach me at **sacha.arseneault@gmail.com**
 
 - 🌎 Take a look at my website *https://sachaa.dev*
