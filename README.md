@@ -8,7 +8,7 @@
 
 - 🔭 I'm a software engineering student at the **University of Ottawa**
 
-- 🦫 I'm currently working on [Bingo](https://github.com/bingosuite/bingo), a visual concurrency debugger for Go
+- 🦫 I'm currently working on [Bingo](https://github.com/bingosuite/bingo), a visual concurrency debugger for Go, _alongside [Egzavyer](https://github.com/Egzavyer) and [jwt2706](https://github.com/jwt2706)_
 
 - 📫 You can reach me at **sacha.arseneault@gmail.com**
 
